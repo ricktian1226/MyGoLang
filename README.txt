@@ -1,2 +1,9 @@
-This is my first golang repository.
-modify by ricktian 2014.04.21，是不是啊？！
+常用的GO操作代码，包括如下：
+1.io操作 os.File/os.Reader/os.Writer
+  无缓冲读写
+  带缓冲读写
+  按行读写ReadString/ReadLine  
+2.简单的tcp c/s 代码
+  
+3.目录操作
+  目录不存在时，创建目录
