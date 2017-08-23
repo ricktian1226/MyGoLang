@@ -1,0 +1,5 @@
+package main;
+
+message Test0{
+    required int64 a  = 1;
+}

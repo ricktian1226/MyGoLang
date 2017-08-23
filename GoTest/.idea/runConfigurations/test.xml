@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <output_file path="E:\go_test\bin" />
+    <module name="" />
+    <working_directory value="E:\go_test\bin" />
+    <filePath value="E:\go_test\src\test\main.go" />
+    <kind value="PACKAGE" />
+    <package value="test" />
+    <method />
+  </configuration>
+</component>
