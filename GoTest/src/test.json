@@ -1,0 +1,35 @@
+{
+    "Data": [
+        {
+            "name": "user",
+            "comment": "玩家数据表",
+            "fields": [
+                {
+                    "field": "id",
+                    "type": "int",
+                    "size": 11,
+                    "PRI": true,
+                    "comment": "标识"
+                },
+                {
+                    "field": "nick_name",
+                    "type": "string",
+                    "size": 128,
+                    "comment": "昵称"
+                },
+                {
+                    "field": "passwd",
+                    "type": "string",
+                    "size": 128,
+                    "comment": "密码"
+                },
+                {
+                    "field": "email",
+                    "type": "string",
+                    "size": 128,
+                    "comment": "电子邮箱"
+                }
+            ]
+        }
+    ]
+}
